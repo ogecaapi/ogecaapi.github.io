@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogecaapi.github.io/Zax/sitemap_index.txt
+Sitemap: https://ogecaapi.github.io/Zhr/sitemap_index.txt
+Sitemap: https://ogecaapi.github.io/mDi/sitemap_index.txt
+Sitemap: https://ogecaapi.github.io/qsO/sitemap_index.txt
